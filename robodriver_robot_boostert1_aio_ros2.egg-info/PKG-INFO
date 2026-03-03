@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: robodriver_robot_boostert1_aio_ros2
+Version: 0.1.0
+License: Apache-2.0
+Keywords: robotics,lerobot,BoosterT1_aio_ros2
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: logging_mp
+Requires-Dist: numpy
+Requires-Dist: pyzmq
+Requires-Dist: opencv-python
+Requires-Dist: cv_bridge
+
+
