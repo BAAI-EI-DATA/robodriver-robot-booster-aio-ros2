@@ -112,7 +112,7 @@ The exact observation/action fields depend on your RoboDriver adapter implementa
   - RGB image stream
 - **Teleoperation signals (optional)**
   - VR wrist pose
-  - Hand/gripper command
+  - gripper command
   - Head pose command
 
 When you need to modify the data schema, please update:
